@@ -119,6 +119,7 @@ body {
 }
 
 #poem_info,#poem_sentence {
+	font-family: "LXGW wenkai Lite", "fangsong", sans-serif;
 	text-align: center;
 	text-decoration: none;
 	color: white;
@@ -126,7 +127,6 @@ body {
 }
 
 #poem_sentence {
-	font-family: "LXGW wenkai Lite",sans-serif;
 	font-size: calc(20px + 0.6vmin);
 	text-rendering: optimizeSpeed;
 	margin-top: calc(95px + 15vmin);
